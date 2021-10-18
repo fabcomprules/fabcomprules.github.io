@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+  font-weight: bold;
+}
+
+.indent-1 {
+  margin-left: 40px;
+}
+
+.indent-2 {
+  margin-left: 80px;
+}
+
+.indent-3 {
+  margin-left: 120px;
+}
+
+.reference {
+  font-weight: bold;
+  color: dodgerblue;
+}
+
+.reference:hover {
+  text-decoration: underline;
+}
+
+a {
+  color: dodgerblue;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+ul.table-of-contents {
+  list-style-type: none;
+}

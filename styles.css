@@ -7,15 +7,15 @@ body {
 }
 
 .indent-1 {
-  margin-left: 40px;
+  margin-left: 20px;
 }
 
 .indent-2 {
-  margin-left: 80px;
+  margin-left: 40px;
 }
 
 .indent-3 {
-  margin-left: 120px;
+  margin-left: 60px;
 }
 
 .reference {
@@ -38,4 +38,9 @@ a:hover {
 
 ul.table-of-contents {
   list-style-type: none;
+}
+
+img {
+  width: 100%;
+  max-width: 900px;
 }
